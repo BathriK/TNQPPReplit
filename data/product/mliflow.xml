@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProductPortal>
+  <Portfolios>
+    <Portfolio id="generated" name="Generated Portfolio">
+      <Products><Product id="mliflow" name="MliFlow" description="Mathematical markup language workflow tool">
+          <Metrics>
+            <Metric id="metric-mliflow-1" name="User Satisfaction" value="85" previousValue="75" unit="%" timestamp="2025-05-27T03:09:02.277Z" description="User satisfaction score" month="5" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-mliflow-2" name="System Uptime" value="99.8" previousValue="98.5" unit="%" timestamp="2025-05-27T03:09:02.277Z" description="System availability" month="5" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-mliflow-3" name="Response Time" value="0.8" previousValue="1.2" unit="sec" timestamp="2025-05-27T03:09:02.277Z" description="Average API response time" month="5" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-april-satisfaction-mliflow" name="User Satisfaction" value="4.1" previousValue="3.9" unit="out of 5" timestamp="2025-04-30T23:59:59.000Z" description="Average user satisfaction score for April" month="4" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-april-uptime-mliflow" name="System Uptime" value="99.7" previousValue="99.4" unit="%" timestamp="2025-04-30T23:59:59.000Z" description="System availability percentage for April" month="4" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-may-satisfaction-mliflow" name="User Satisfaction" value="4.3" previousValue="4.1" unit="out of 5" timestamp="2025-05-31T23:59:59.000Z" description="Average user satisfaction score for May" month="5" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-may-uptime-mliflow" name="System Uptime" value="99.9" previousValue="99.7" unit="%" timestamp="2025-05-31T23:59:59.000Z" description="System availability percentage for May" month="5" year="2025" source="" category="" owner=""/>
+          </Metrics>
+          <Roadmaps>
+            <Roadmap id="roadmap-mliflow-2025" year="2025" createdAt="2025-05-27T03:09:02.278Z" version="1.0" link="https://docs.google.com/spreadsheets/d/roadmap-mliflow">
+              </Roadmap>
+            <Roadmap id="roadmap-mliflow-2024" year="2024" createdAt="2024-01-14T18:30:00.000Z" version="0.9" link="https://docs.google.com/spreadsheets/d/roadmap-mliflow">
+              </Roadmap>
+          </Roadmaps>
+          <ReleaseGoals>
+            <ReleaseGoal id="id-1748323436913-lxsilmp" month="4" year="2025" createdAt="2025-05-27T05:23:56.909Z" version="1">
+              <Goals>
+                <GoalItem id="goal-paste-1748323419161-0" description="Improve FTR by focusing on AS2TUD and TUDQC modules." currentState="45%" targetState="55%" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-paste-1748323419161-2" description="DG: Reduce turnaround time by automating table styling in TUD." currentState="Not specified" targetState="" owner="" priority="" status="" category=""/>
+              </Goals>
+            </ReleaseGoal>
+            <ReleaseGoal id="release-goal-mliflow-5-2025-v1" month="5" year="2025" createdAt="2025-05-27T03:09:02.278Z" version="1">
+              <Goals>
+                <GoalItem id="goal-mliflow-1" description="Improve user experience" currentState="3.5/5 rating" targetState="4.5/5 rating" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-mliflow-2" description="Decrease load times" currentState="2.5 seconds" targetState="1 second" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-mliflow-3" description="Increase user retention" currentState="45% monthly" targetState="75% monthly" owner="" priority="" status="" category=""/>
+              </Goals>
+            </ReleaseGoal>
+            <ReleaseGoal id="release-goal-mliflow-5-2025-v0" month="5" year="2025" createdAt="2025-04-30T18:30:00.000Z" version="0">
+              <Goals>
+                <GoalItem id="goal-older-mliflow-1" description="Improve user experience" currentState="3.2/5 rating" targetState="4.0/5 rating" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-older-mliflow-2" description="Decrease load times" currentState="3.0 seconds" targetState="1.5 seconds" owner="" priority="" status="" category=""/>
+              </Goals>
+            </ReleaseGoal>
+            <ReleaseGoal id="goal-april-mliflow" month="4" year="2025" createdAt="2025-04-01T09:00:00.000Z" version="1">
+              <Goals>
+                <GoalItem id="goal-item-april-1-mliflow" description="Improve user onboarding experience" currentState="New users face difficulties during initial setup" targetState="Streamlined onboarding with guided tutorials" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-item-april-2-mliflow" description="Enhance system performance" currentState="Response times averaging 2.1 seconds" targetState="Response times under 1.5 seconds consistently" owner="" priority="" status="" category=""/>
+              </Goals>
+            </ReleaseGoal>
+            <ReleaseGoal id="goal-may-mliflow" month="5" year="2025" createdAt="2025-05-01T09:00:00.000Z" version="1">
+              <Goals>
+                <GoalItem id="goal-item-may-1-mliflow" description="Implement advanced search functionality" currentState="Basic search with limited filtering options" targetState="Advanced search with multiple filters and sorting" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-item-may-2-mliflow" description="Optimize mobile experience" currentState="Mobile interface needs improvement" targetState="Fully responsive mobile-first design" owner="" priority="" status="" category=""/>
+              </Goals>
+            </ReleaseGoal>
+          </ReleaseGoals>
+          <ReleasePlans>
+            <ReleasePlan id="id-1748323490930-rnkkdqf" month="4" year="2025" createdAt="2025-05-27T05:24:50.925Z" version="1">
+              <ReleasePlanItem id="plan-paste-1748323466358-0" title="PC4.0 - Updates and enhancements planned across key modules – Author Query, TUDQC, and TUD2XML – to align with PC4.0 requirements." targetDate="2025-05-27T05:24:26.358Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615559">
+                <Description/>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323466358-1" title="Focus on improving FTR for CellPress by analyzing and resolving frequent parser errors on MMC Citation patterns to reduce user touch time." targetDate="2025-05-27T05:24:26.358Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615565">
+                <Description/>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323466358-2" title="Building a robust regression suite for TUDQC to proactively catch quality issues and maintain consistency across releases." targetDate="2025-05-27T05:24:26.358Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615570">
+                <Description/>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323466358-3" title="ServerXML FTR Improvement Targets Elsevier Books 8%, ACS and Wiley 5%" targetDate="2025-05-27T05:24:26.358Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615576">
+                <Description/>
+              </ReleasePlanItem>
+            </ReleasePlan>
+            <ReleasePlan id="release-plan-mliflow-5-2025-v1" month="5" year="2025" createdAt="2025-05-27T03:09:02.278Z" version="1">
+              <ReleasePlanItem id="plan-item-mliflow-1" title="Redesign dashboard" targetDate="2025-05-19T18:30:00.000Z" status="in-progress" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615581">
+                <Description>Overhaul the main dashboard UX</Description>
+                <Owner>UX Team</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-item-mliflow-2" title="API optimization" targetDate="2025-05-24T18:30:00.000Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615587">
+                <Description>Optimize core API endpoints</Description>
+                <Owner>Backend Team</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-item-mliflow-3" title="Mobile responsiveness" targetDate="2025-05-14T18:30:00.000Z" status="completed" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615592">
+                <Description>Improve mobile UI experience</Description>
+                <Owner>Frontend Team</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-item-mliflow-4" title="Documentation update" targetDate="2025-05-29T18:30:00.000Z" status="delayed" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615599">
+                <Description>Update user documentation</Description>
+                <Owner>Tech Writers</Owner>
+              </ReleasePlanItem>
+            </ReleasePlan>
+            <ReleasePlan id="release-plan-mliflow-5-2025-v0" month="5" year="2025" createdAt="2025-05-04T18:30:00.000Z" version="0">
+              <ReleasePlanItem id="plan-item-older-mliflow-1" title="Initial dashboard redesign" targetDate="2025-05-19T18:30:00.000Z" status="in-progress" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615605">
+                <Description>First draft of dashboard improvements</Description>
+                <Owner>UX Team</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-item-older-mliflow-2" title="API performance audit" targetDate="2025-05-14T18:30:00.000Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615610">
+                <Description>Identify API bottlenecks</Description>
+                <Owner>Backend Team</Owner>
+              </ReleasePlanItem>
+            </ReleasePlan>
+            <ReleasePlan id="plan-april-mliflow" month="4" year="2025" createdAt="2025-04-01T09:00:00.000Z" version="1">
+              <ReleasePlanItem id="plan-item-april-1-mliflow" title="Onboarding tutorial system" targetDate="2025-04-15T00:00:00.000Z" status="completed" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615616">
+                <Description>Develop interactive tutorials for new users</Description>
+                <Owner>UX Team</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-item-april-2-mliflow" title="Performance optimization phase 1" targetDate="2025-04-22T00:00:00.000Z" status="completed" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615624">
+                <Description>Database query optimization and caching implementation</Description>
+                <Owner>Backend Team</Owner>
+              </ReleasePlanItem>
+            </ReleasePlan>
+            <ReleasePlan id="plan-may-mliflow" month="5" year="2025" createdAt="2025-05-01T09:00:00.000Z" version="1">
+              <ReleasePlanItem id="plan-item-may-1-mliflow" title="Advanced search implementation" targetDate="2025-05-20T00:00:00.000Z" status="in-progress" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615630">
+                <Description>Build comprehensive search with filters and AI-powered suggestions</Description>
+                <Owner>Frontend Team</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-item-may-2-mliflow" title="Mobile responsiveness upgrade" targetDate="2025-05-28T00:00:00.000Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615636">
+                <Description>Redesign all interfaces for mobile-first approach</Description>
+                <Owner>Design Team</Owner>
+              </ReleasePlanItem>
+            </ReleasePlan>
+          </ReleasePlans>
+          <ReleaseNotes>
+            <ReleaseNote id="release-note-mliflow-4-2025-v1" month="4" year="2025" createdAt="2025-04-27T18:30:00.000Z" version="1" link="https://docs.google.com/spreadsheets/d/roadmap-ace">
+              <Highlights>Major improvements in performance and user experience</Highlights>
+              </ReleaseNote>
+            <ReleaseNote id="release-note-mliflow-4-2025-v0" month="4" year="2025" createdAt="2025-04-19T18:30:00.000Z" version="0" link="https://docs.google.com/spreadsheets/d/roadmap-ace">
+              <Highlights>Draft release notes</Highlights>
+              </ReleaseNote>
+            <ReleaseNote id="note-april-mliflow" month="4" year="2025" createdAt="2025-04-30T18:00:00.000Z" version="1" link="https://docs.google.com/spreadsheets/d/roadmap-ace">
+              <Highlights>Successfully launched new onboarding system and improved system performance by 30%</Highlights>
+              </ReleaseNote>
+            <ReleaseNote id="note-may-mliflow" month="5" year="2025" createdAt="2025-05-31T18:00:00.000Z" version="1" link="https://docs.google.com/spreadsheets/d/roadmap-ace">
+              <Highlights>Rolled out advanced search capabilities and began mobile optimization initiative</Highlights>
+              </ReleaseNote>
+          </ReleaseNotes>
+        </Product>
+      </Products>
+    </Portfolio>
+  </Portfolios>
+</ProductPortal>

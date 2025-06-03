@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProductPortal>
+  <Portfolios>
+    <Portfolio id="generated" name="Generated Portfolio">
+      <Products><Product id="xml-central" name="XML Central" description="Core XML processing platform">
+          <Metrics>
+            <Metric id="metric-paste-1748323330781-0" name="Adoption Rate" value="30" unit="%" timestamp="2025-05-27T05:22:10.781Z" description="" month="4" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-paste-1748323330781-1" name="XML Delivery" value="60" unit="%" timestamp="2025-05-27T05:22:10.781Z" description="" month="4" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-paste-1748323330781-2" name="Link Wait time" value="120" unit="secs" timestamp="2025-05-27T05:22:10.781Z" description="" month="4" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-paste-1748323161277-0" name="Adoption Rate" value="45" unit="%" timestamp="2025-05-27T05:19:21.277Z" description="" month="5" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-paste-1748323161277-1" name="XML Delivery" value="75" unit="%" timestamp="2025-05-27T05:19:21.277Z" description="" month="5" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-paste-1748323161277-2" name="Link Wait time" value="120" unit="secs" timestamp="2025-05-27T05:19:21.277Z" description="" month="5" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-april-satisfaction-xml-central" name="User Satisfaction" value="4.1" previousValue="3.9" unit="out of 5" timestamp="2025-04-30T23:59:59.000Z" description="Average user satisfaction score for April" month="4" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-april-uptime-xml-central" name="System Uptime" value="99.7" previousValue="99.4" unit="%" timestamp="2025-04-30T23:59:59.000Z" description="System availability percentage for April" month="4" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-may-satisfaction-xml-central" name="User Satisfaction" value="4.3" previousValue="4.1" unit="out of 5" timestamp="2025-05-31T23:59:59.000Z" description="Average user satisfaction score for May" month="5" year="2025" source="" category="" owner=""/>
+            <Metric id="metric-may-uptime-xml-central" name="System Uptime" value="99.9" previousValue="99.7" unit="%" timestamp="2025-05-31T23:59:59.000Z" description="System availability percentage for May" month="5" year="2025" source="" category="" owner=""/>
+          </Metrics>
+          <Roadmaps>
+            <Roadmap id="id-1748322831843-216u0ig" year="2025" createdAt="2025-05-27T05:13:51.843Z" version="2" link="https://docs.google.com/spreadsheets/d/1FeX9iNB2a_4YwTbhKh3afvO0yGedhGn4L7Tfi1Rlzk0/edit?gid=115920112#gid=115920112">
+            </Roadmap>
+            <Roadmap id="roadmap-xml-central-2025" year="2025" createdAt="2025-05-27T03:09:02.277Z" version="1.0" link="https://docs.google.com/spreadsheets/d/roadmap-xml-central">
+              </Roadmap>
+            <Roadmap id="roadmap-xml-central-2024" year="2024" createdAt="2024-01-14T18:30:00.000Z" version="0.9" link="https://docs.google.com/spreadsheets/d/roadmap-xml-central">
+              </Roadmap>
+          </Roadmaps>
+          <ReleaseGoals>
+            <ReleaseGoal id="id-1748323263444-ku4um23" month="4" year="2025" createdAt="2025-05-27T05:21:03.439Z" version="1">
+              <Goals>
+                <GoalItem id="goal-paste-1748323261714-0" description="Math rollout to ACS" currentState="30% Coverage" targetState="60% Coverage" owner="" priority="" status="" category=""/>
+              </Goals>
+            </ReleaseGoal>
+            <ReleaseGoal id="id-1748323051796-xgv9iht" month="5" year="2025" createdAt="2025-05-27T05:17:31.790Z" version="4">
+              <Goals>
+                <GoalItem id="goal-paste-1748323046059-0" description="ACS CBE rollout" currentState="" targetState=" " owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-paste-1748323046059-1" description="Beta testing readiness for LeMans" currentState="30%" targetState="45% " owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-paste-1748323046059-2" description="Zero downtime deployment" currentState="" targetState=" " owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-paste-1748323046059-3" description="PoC on Local first approach" currentState="" targetState="" owner="" priority="" status="" category=""/>
+              </Goals>
+            </ReleaseGoal>
+            <ReleaseGoal id="id-1748315702864-u7gee34" month="5" year="2025" createdAt="2025-05-27T03:15:02.859Z" version="3">
+              <Goals>
+                <GoalItem id="goal-xml-central-1" description="Improve user experience" currentState="3.5/5 rating" targetState="4.5/5 rating" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-xml-central-2" description="Decrease load times" currentState="2.5 seconds" targetState="1 second" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-xml-central-3" description="Increase Adoption Rate" currentState="45% monthly" targetState="75% monthly" owner="" priority="" status="" category=""/>
+              </Goals>
+            </ReleaseGoal>
+            <ReleaseGoal id="id-1748315680934-qee83ao" month="5" year="2025" createdAt="2025-05-27T03:14:40.929Z" version="2">
+              <Goals>
+                <GoalItem id="goal-xml-central-1" description="Improve user experience" currentState="3.5/5 rating" targetState="4.5/5 rating" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-xml-central-2" description="Decrease load times" currentState="2.5 seconds" targetState="1 second" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-xml-central-3" description="Increase user retention" currentState="45% monthly" targetState="75% monthly" owner="" priority="" status="" category=""/>
+              </Goals>
+            </ReleaseGoal>
+            <ReleaseGoal id="release-goal-xml-central-5-2025-v1" month="5" year="2025" createdAt="2025-05-27T03:09:02.277Z" version="1">
+              <Goals>
+                <GoalItem id="goal-xml-central-1" description="Improve user experience" currentState="3.5/5 rating" targetState="4.5/5 rating" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-xml-central-2" description="Decrease load times" currentState="2.5 seconds" targetState="1 second" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-xml-central-3" description="Increase user retention" currentState="45% monthly" targetState="75% monthly" owner="" priority="" status="" category=""/>
+              </Goals>
+            </ReleaseGoal>
+            <ReleaseGoal id="release-goal-xml-central-5-2025-v0" month="5" year="2025" createdAt="2025-04-30T18:30:00.000Z" version="0">
+              <Goals>
+                <GoalItem id="goal-older-xml-central-1" description="Improve user experience" currentState="3.2/5 rating" targetState="4.0/5 rating" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-older-xml-central-2" description="Decrease load times" currentState="3.0 seconds" targetState="1.5 seconds" owner="" priority="" status="" category=""/>
+              </Goals>
+            </ReleaseGoal>
+            <ReleaseGoal id="goal-april-xml-central" month="4" year="2025" createdAt="2025-04-01T09:00:00.000Z" version="1">
+              <Goals>
+                <GoalItem id="goal-item-april-1-xml-central" description="Improve user onboarding experience" currentState="New users face difficulties during initial setup" targetState="Streamlined onboarding with guided tutorials" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-item-april-2-xml-central" description="Enhance system performance" currentState="Response times averaging 2.1 seconds" targetState="Response times under 1.5 seconds consistently" owner="" priority="" status="" category=""/>
+              </Goals>
+            </ReleaseGoal>
+            <ReleaseGoal id="goal-may-xml-central" month="5" year="2025" createdAt="2025-05-01T09:00:00.000Z" version="1">
+              <Goals>
+                <GoalItem id="goal-item-may-1-xml-central" description="Implement advanced search functionality" currentState="Basic search with limited filtering options" targetState="Advanced search with multiple filters and sorting" owner="" priority="" status="" category=""/>
+                <GoalItem id="goal-item-may-2-xml-central" description="Optimize mobile experience" currentState="Mobile interface needs improvement" targetState="Fully responsive mobile-first design" owner="" priority="" status="" category=""/>
+              </Goals>
+            </ReleaseGoal>
+          </ReleaseGoals>
+          <ReleasePlans>
+            <ReleasePlan id="id-1748325589854-uqpca2y" month="5" year="2025" createdAt="2025-05-27T05:59:49.840Z" version="4">
+              <ReleasePlanItem id="plan-paste-1748323087248-0" title="SX-295 Scrollbar" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615058">
+                <Description>Enhancement</Description>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-1" title="SX-296 Interaction of header menus" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615076">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-2" title="SX-343 Select text in Right Side Panel and drag n drop it in the editor." targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615083">
+                <Description>Enhancement</Description>
+                <Owner>in-progress
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-3" title="SX-353 Update in Enunciation Label" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615089">
+                <Description>Enhancement</Description>
+                <Owner>in-progress
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-4" title="SX-298 Alt + G for the Foot note parastyle" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615094">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-5" title="SX-321 Handling List in XML Central" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615100">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-6" title="SX-327 LeMans XMLCentral Workflow changes" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615106">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-7" title="SX-331 Citation" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615114">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-8" title="SX-252 Elsevier workflow configurations for Pilot" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615122">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-9" title="SX-283 Table cell/row separator" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615129">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-10" title="SX-300 Issues for SX-265" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615135">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-11" title="SX-305 Citation, Links and IDs representation in Editor" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615141">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-12" title="SX-319 Alt + G / bibitem label variations" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615147">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-13" title="SX-346 Citation popup customization" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615153">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-14" title="SX-349 Symbol differentiation, unicode view and Shortcut to view Symbol" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615159">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-15" title="SX-352 Author Biography/Vitae author mapping" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615166">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-16" title="SX-355 F6 Operation" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615172">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-17" title="SX-356 Social media Handles Support" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615181">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-18" title="SX-358 Table Header and Rowhead Role updates" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615190">
+                <Description>Enhancement</Description>
+                <Owner>planned</Owner>
+              </ReleasePlanItem>
+            </ReleasePlan>
+            <ReleasePlan id="id-1748325482462-e5mwlto" month="5" year="2025" createdAt="2025-05-27T05:58:02.436Z" version="3">
+              <ReleasePlanItem id="plan-paste-1748323087248-0" title="SX-295 Scrollbar" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615201">
+                <Description>Enhancement</Description>
+                <Owner>completed
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-1" title="SX-296 Interaction of header menus" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615211">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-2" title="SX-343 Select text in Right Side Panel and drag n drop it in the editor." targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615217">
+                <Description>Enhancement</Description>
+                <Owner>in-progress
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-3" title="SX-353 Update in Enunciation Label" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615223">
+                <Description>Enhancement</Description>
+                <Owner>in-progress
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-4" title="SX-298 Alt + G for the Foot note parastyle" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615228">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-5" title="SX-321 Handling List in XML Central" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615234">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-6" title="SX-327 LeMans XMLCentral Workflow changes" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615241">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-7" title="SX-331 Citation" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615247">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-8" title="SX-252 Elsevier workflow configurations for Pilot" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615257">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-9" title="SX-283 Table cell/row separator" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615267">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-10" title="SX-300 Issues for SX-265" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615276">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-11" title="SX-305 Citation, Links and IDs representation in Editor" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615281">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-12" title="SX-319 Alt + G / bibitem label variations" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615287">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-13" title="SX-346 Citation popup customization" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615294">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-14" title="SX-349 Symbol differentiation, unicode view and Shortcut to view Symbol" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615300">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-15" title="SX-352 Author Biography/Vitae author mapping" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615305">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-16" title="SX-355 F6 Operation" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615310">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-17" title="SX-356 Social media Handles Support" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615316">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-18" title="SX-358 Table Header and Rowhead Role updates" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615333">
+                <Description>Enhancement</Description>
+                <Owner>planned</Owner>
+              </ReleasePlanItem>
+            </ReleasePlan>
+            <ReleasePlan id="id-1748323302398-f8vcvkz" month="4" year="2025" createdAt="2025-05-27T05:21:42.392Z" version="1">
+              <ReleasePlanItem id="plan-paste-1748323300272-0" title="SX-295 Text not visible in the main window" targetDate="2025-05-27T05:21:40.272Z" status="completed" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615340">
+                <Description>Enhancement</Description>
+                <Owner>-</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323300272-1" title="SX-296 Interaction of header menus" targetDate="2025-05-27T05:21:40.272Z" status="completed" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615346">
+                <Description>Enhancement</Description>
+                <Owner>-</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323300272-2" title="Select text in Right Side Panel and drag n drop it in the editor." targetDate="2025-05-27T05:21:40.272Z" status="delayed" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615351">
+                <Description>Enhancement</Description>
+                <Owner>-</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323300272-3" title="SX-353 Update in Enunciation Label" targetDate="2025-05-27T05:21:40.272Z" status="completed" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615357">
+                <Description>Enhancement</Description>
+                <Owner>-</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323300272-4" title="SX-298 Alt + G for the Foot note parastyle" targetDate="2025-05-27T05:21:40.272Z" status="completed" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615363">
+                <Description>Enhancement</Description>
+                <Owner>-</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323300272-5" title="Handling List items in XML Central" targetDate="2025-05-27T05:21:40.272Z" status="completed" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615369">
+                <Description>Enhancement</Description>
+                <Owner>-</Owner>
+              </ReleasePlanItem>
+            </ReleasePlan>
+            <ReleasePlan id="id-1748323091033-p2m7esm" month="5" year="2025" createdAt="2025-05-27T05:18:11.026Z" version="2">
+              <ReleasePlanItem id="plan-paste-1748323087248-0" title="SX-295 Scrollbar" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615375">
+                <Description>Enhancement</Description>
+                <Owner>completed
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-1" title="SX-296 Interaction of header menus" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615383">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-2" title="SX-343 Select text in Right Side Panel and drag n drop it in the editor." targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615391">
+                <Description>Enhancement</Description>
+                <Owner>in-progress
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-3" title="SX-353 Update in Enunciation Label" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615401">
+                <Description>Enhancement</Description>
+                <Owner>in-progress
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-4" title="SX-298 Alt + G for the Foot note parastyle" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615410">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-5" title="SX-321 Handling List in XML Central" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615416">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-6" title="SX-327 LeMans XMLCentral Workflow changes" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615423">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-7" title="SX-331 Citation" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615429">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-8" title="SX-252 Elsevier workflow configurations for Pilot" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615434">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-9" title="SX-283 Table cell/row separator" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615441">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-10" title="SX-300 Issues for SX-265" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615446">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-11" title="SX-305 Citation, Links and IDs representation in Editor" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615452">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-12" title="SX-319 Alt + G / bibitem label variations" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615457">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-13" title="SX-346 Citation popup customization" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615463">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-14" title="SX-349 Symbol differentiation, unicode view and Shortcut to view Symbol" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615469">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-15" title="SX-352 Author Biography/Vitae author mapping" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615475">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-16" title="SX-355 F6 Operation" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615481">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-17" title="SX-356 Social media Handles Support" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615486">
+                <Description>Enhancement</Description>
+                <Owner>planned
+</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-paste-1748323087248-18" title="SX-358 Table Header and Rowhead Role updates" targetDate="2025-05-27T05:18:07.248Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615493">
+                <Description>Enhancement</Description>
+                <Owner>planned</Owner>
+              </ReleasePlanItem>
+            </ReleasePlan>
+            <ReleasePlan id="release-plan-xml-central-5-2025-v1" month="5" year="2025" createdAt="2025-05-27T03:09:02.277Z" version="1">
+              <ReleasePlanItem id="plan-item-xml-central-1" title="Redesign dashboard" targetDate="2025-05-19T18:30:00.000Z" status="in-progress" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615499">
+                <Description>Overhaul the main dashboard UX</Description>
+                <Owner>UX Team</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-item-xml-central-2" title="API optimization" targetDate="2025-05-24T18:30:00.000Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615505">
+                <Description>Optimize core API endpoints</Description>
+                <Owner>Backend Team</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-item-xml-central-3" title="Mobile responsiveness" targetDate="2025-05-14T18:30:00.000Z" status="completed" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615511">
+                <Description>Improve mobile UI experience</Description>
+                <Owner>Frontend Team</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-item-xml-central-4" title="Documentation update" targetDate="2025-05-29T18:30:00.000Z" status="delayed" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615516">
+                <Description>Update user documentation</Description>
+                <Owner>Tech Writers</Owner>
+              </ReleasePlanItem>
+            </ReleasePlan>
+            <ReleasePlan id="release-plan-xml-central-5-2025-v0" month="5" year="2025" createdAt="2025-05-04T18:30:00.000Z" version="0">
+              <ReleasePlanItem id="plan-item-older-xml-central-1" title="Initial dashboard redesign" targetDate="2025-05-19T18:30:00.000Z" status="in-progress" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615522">
+                <Description>First draft of dashboard improvements</Description>
+                <Owner>UX Team</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-item-older-xml-central-2" title="API performance audit" targetDate="2025-05-14T18:30:00.000Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615528">
+                <Description>Identify API bottlenecks</Description>
+                <Owner>Backend Team</Owner>
+              </ReleasePlanItem>
+            </ReleasePlan>
+            <ReleasePlan id="plan-april-xml-central" month="4" year="2025" createdAt="2025-04-01T09:00:00.000Z" version="1">
+              <ReleasePlanItem id="plan-item-april-1-xml-central" title="Onboarding tutorial system" targetDate="2025-04-15T00:00:00.000Z" status="completed" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615535">
+                <Description>Develop interactive tutorials for new users</Description>
+                <Owner>UX Team</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-item-april-2-xml-central" title="Performance optimization phase 1" targetDate="2025-04-22T00:00:00.000Z" status="completed" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615540">
+                <Description>Database query optimization and caching implementation</Description>
+                <Owner>Backend Team</Owner>
+              </ReleasePlanItem>
+            </ReleasePlan>
+            <ReleasePlan id="plan-may-xml-central" month="5" year="2025" createdAt="2025-05-01T09:00:00.000Z" version="1">
+              <ReleasePlanItem id="plan-item-may-1-xml-central" title="Advanced search implementation" targetDate="2025-05-20T00:00:00.000Z" status="in-progress" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615546">
+                <Description>Build comprehensive search with filters and AI-powered suggestions</Description>
+                <Owner>Frontend Team</Owner>
+              </ReleasePlanItem>
+              <ReleasePlanItem id="plan-item-may-2-xml-central" title="Mobile responsiveness upgrade" targetDate="2025-05-28T00:00:00.000Z" status="planned" priority="" category="" dependencies="" riskLevel="" lastUpdated="2025-06-02T10:41:21.615552">
+                <Description>Redesign all interfaces for mobile-first approach</Description>
+                <Owner>Design Team</Owner>
+              </ReleasePlanItem>
+            </ReleasePlan>
+          </ReleasePlans>
+          <ReleaseNotes>
+            <ReleaseNote id="id-1748323189627-9etbbep" month="4" year="2025" createdAt="2025-05-27T05:19:49.623Z" version="3" link="https://docs.google.com/spreadsheets/d/roadmap-ace">
+              <Highlights>Release notes for April 2025</Highlights>
+            </ReleaseNote>
+            <ReleaseNote id="id-1748315444796-dqh9bz6" month="4" year="2025" createdAt="2025-05-27T03:10:44.792Z" version="2" link="https://docs.google.com/spreadsheets/d/roadmap-ace">
+              <Highlights>Release notes for April 2025</Highlights>
+            </ReleaseNote>
+            <ReleaseNote id="release-note-xml-central-4-2025-v1" month="4" year="2025" createdAt="2025-04-27T18:30:00.000Z" version="1" link="https://docs.google.com/spreadsheets/d/roadmap-ace">
+              <Highlights>Major improvements in performance and user experience</Highlights>
+              </ReleaseNote>
+            <ReleaseNote id="release-note-xml-central-4-2025-v0" month="4" year="2025" createdAt="2025-04-19T18:30:00.000Z" version="0" link="https://docs.google.com/spreadsheets/d/roadmap-ace">
+              <Highlights>Draft release notes</Highlights>
+              </ReleaseNote>
+            <ReleaseNote id="note-april-xml-central" month="4" year="2025" createdAt="2025-04-30T18:00:00.000Z" version="1" link="https://docs.google.com/spreadsheets/d/roadmap-ace">
+              <Highlights>Successfully launched new onboarding system and improved system performance by 30%</Highlights>
+              </ReleaseNote>
+            <ReleaseNote id="note-may-xml-central" month="5" year="2025" createdAt="2025-05-31T18:00:00.000Z" version="1" link="https://docs.google.com/spreadsheets/d/roadmap-ace">
+              <Highlights>Rolled out advanced search capabilities and began mobile optimization initiative</Highlights>
+              </ReleaseNote>
+          </ReleaseNotes>
+        </Product>
+        </Products>
+    </Portfolio>
+  </Portfolios>
+</ProductPortal>
